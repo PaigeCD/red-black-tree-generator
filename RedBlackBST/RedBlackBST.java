@@ -385,7 +385,7 @@ public class RedBlackBST {
         Scanner input = new Scanner(System.in);
         RedBlackBST bst = new RedBlackBST();
         System.out.println("------------------------------------------------------------------------------");
-        System.out.println("Welcome to my red-black tree visualizer.");
+        System.out.println("Welcome to the red-black tree visualizer.");
         System.out.println("------------------------------------------------------------------------------");
         System.out.println("Please enter the values you would like to add to the tree separated by spaces.");
         System.out.println("When you are finished, please type 'end'.");
